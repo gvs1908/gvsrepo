@@ -1,0 +1,40 @@
+.navbar {
+  background-color: burlywood;
+  color: crimson;
+}
+
+.nav-item {
+  color: crimson;
+}
+
+.nav-link {
+  color: crimson;
+}
+
+.nav-link:hover {
+  color: white;
+  background-color: black;
+}
+
+.navbar-brand {
+  color: yellow;
+}
+.navbar-brand:hover {
+  color: rgb(236, 17, 17);
+  background-color: turquoise;
+}
+
+.form-control {
+  width: 200px;
+  height: 40px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 17px;
+}
+.form-control:hover {
+  width: 400px;
+  height: 80px;
+  padding: 50px;
+  border: 5px solid rgb(219, 13, 13);
+  border-radius: 17px;
+}
